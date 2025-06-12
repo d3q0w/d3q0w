@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+# I'm Dekow
 Cybersecurity Engineer | Appsec Specialist | Infosec Explorer | <br>Articles Writing fan | Footballer
 
 
